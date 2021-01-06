@@ -1,7 +1,7 @@
 # Shopney Code Study
 Template for Shopney Code Study assessment.
 
-  - [Getting Started](https://github.com/mahirsayilir/shopney-code-study#getting-stated)
+  - [Getting Started](https://github.com/mahirsayilir/shopney-code-study#getting-started)
   - [Operations](https://github.com/mahirsayilir/shopney-code-study#operations)
     - [Create a Shop API](https://github.com/mahirsayilir/shopney-code-study#create-a-shop-api)
     - [Login to system with the Shop API](https://github.com/mahirsayilir/shopney-code-study#login-to-system-with-the-shop-api)
