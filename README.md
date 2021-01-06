@@ -10,7 +10,8 @@ Template for Shopney Code Study assessment.
     - [Enable/Disable the Plugins API](https://github.com/mahirsayilir/shopney-code-study#enabledisable-the-plugins-api)
 
 # Getting Started
-This documentation is for understanding the API of the Shopney Code Study.What you will achieve is understand the all endpoints, request and responses.
+This documentation is for understanding the API of the Shopney Code Study.What you will achieve is understand the all endpoints, request and responses.<br>
+For live testing: [Heroku Swagger UI](https://obscure-dawn-09348.herokuapp.com/swagger-ui.html#/)
 
 # Operations
 There is 5 different operation on this project.There are basics of the systems Shop logic.If we will look closer to our operations;
