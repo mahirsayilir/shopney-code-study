@@ -1,0 +1,9 @@
+co/shopney/demo/core/entity/Plugin.class
+co/shopney/demo/repository/ShopRepository.class
+co/shopney/demo/core/entity/base/BaseEntity.class
+co/shopney/demo/DemoApplication.class
+co/shopney/demo/core/entity/Shop.class
+co/shopney/demo/core/asd.class
+co/shopney/demo/controller/UserController.class
+co/shopney/demo/config/SwaggerConfig.class
+co/shopney/demo/core/entity/base/BaseAuditEntity.class
