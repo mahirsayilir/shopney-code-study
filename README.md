@@ -1,13 +1,13 @@
 # Shopney Code Study
 Template for Shopney Code Study assessment.
 
-  - [Getting Started](https://github.com/mahirsayilir/shopney-code-study/blob/main/README.md#getting-stated)
-  - [Operations](https://github.com/mahirsayilir/shopney-code-study/blob/main/README.md#operations)
-    - [Create a Shop API](https://github.com/mahirsayilir/shopney-code-study/blob/main/README.md#create-a-shop-api)
-    - [Login to system with the Shop API](https://github.com/mahirsayilir/shopney-code-study/blob/main/README.md#login-to-system-with-the-shop-api)
-    - [Disable the Shop API](https://github.com/mahirsayilir/shopney-code-study/blob/main/README.md#disable-the-shop-api)
-    - [List the Plugins API](https://github.com/mahirsayilir/shopney-code-study/blob/main/README.md#list-the-plugins-api)
-    - [Enable/Disable the Plugins API](https://github.com/mahirsayilir/shopney-code-study/blob/main/README.md#enabledisable-the-plugins-api)
+  - [Getting Started](https://github.com/mahirsayilir/shopney-code-study#getting-stated)
+  - [Operations](https://github.com/mahirsayilir/shopney-code-study#operations)
+    - [Create a Shop API](https://github.com/mahirsayilir/shopney-code-study#create-a-shop-api)
+    - [Login to system with the Shop API](https://github.com/mahirsayilir/shopney-code-study#login-to-system-with-the-shop-api)
+    - [Disable the Shop API](https://github.com/mahirsayilir/shopney-code-study#disable-the-shop-api)
+    - [List the Plugins API](https://github.com/mahirsayilir/shopney-code-study#list-the-plugins-api)
+    - [Enable/Disable the Plugins API](https://github.com/mahirsayilir/shopney-code-study#enabledisable-the-plugins-api)
 
 # Getting Started
 This documentation is for understanding the API of the Shopney Code Study.What you will achieve is understand the all endpoints, request and responses.
